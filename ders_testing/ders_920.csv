@@ -1,4 +1,3 @@
-Time,DER920_Watts,DER920_VARs,DER920_loc
-1570041117,966,0,tlx_633_b_h_14
-1570041124,3699,0,tlx_633_b_h_14
-1570041130,259,0,tlx_633_b_h_14
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c83bce339ecba965d6ddbacc12a8802349a248af7f670405f72aff31eb07db7
+size 138

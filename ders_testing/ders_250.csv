@@ -1,4 +1,3 @@
-Time,DER250_Watts,DER250_VARs,DER250_loc
-1570041117,128,0,tlx_684_a_h_27
-1570041124,670,0,tlx_684_a_h_27
-1570041130,3120,0,tlx_684_a_h_27
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c1887f6f2c4f825ba04c57805b588824e096514de90261f5d0efbbdbf97bf6e
+size 138

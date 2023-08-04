@@ -1,4 +1,3 @@
-Time,DER412_Watts,DER412_VARs,DER412_loc
-1570041117,380,0,tlx_611_c_h_31
-1570041124,2950,0,tlx_611_c_h_31
-1570041130,2395,0,tlx_611_c_h_31
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a63d6f7594102d12f3a537bf95e38fa5bad85b0f940ea0e78c64b0bc3af9279
+size 139

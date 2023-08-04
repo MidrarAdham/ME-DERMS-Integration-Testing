@@ -1,4 +1,3 @@
-Time,DER723_Watts,DER723_VARs,DER723_loc
-1570041117,2496,0,tlx_671_c_h_20
-1570041124,3305,0,tlx_671_c_h_20
-1570041130,3822,0,tlx_671_c_h_20
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9f762bab0fbe43bf6b9ecd75ce303c317cb13aa4450c9523478142b6d47007
+size 140

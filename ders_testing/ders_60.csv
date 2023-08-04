@@ -1,4 +1,3 @@
-Time,DER60_Watts,DER60_VARs,DER60_loc
-1570041117,3830,0,tlx_632_b_h_12
-1570041124,810,0,tlx_632_b_h_12
-1570041130,1851,0,tlx_632_b_h_12
+version https://git-lfs.github.com/spec/v1
+oid sha256:0630a0b5e83ac37545d3a1fc75e059716ff17cbfbfdfe395200ff7d02e91ff22
+size 136

@@ -1,4 +1,3 @@
-Time,DER480_Watts,DER480_VARs,DER480_loc
-1570041117,3996,0,tlx_611_c_h_7
-1570041124,334,0,tlx_611_c_h_7
-1570041130,314,0,tlx_611_c_h_7
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfc23c863baba23b2b18a696908e2e28a47c48d86b673c39004d67f07c422026
+size 135

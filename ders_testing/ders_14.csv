@@ -1,4 +1,3 @@
-Time,DER14_Watts,DER14_VARs,DER14_loc
-1570041117,920,0,tlx_633_b_h_27
-1570041124,4456,0,tlx_633_b_h_27
-1570041130,4386,0,tlx_633_b_h_27
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd91dc5ee41fb558d09a52a166768b538dbd5e73d70608082b32e3650d25a796
+size 136

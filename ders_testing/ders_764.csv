@@ -1,4 +1,3 @@
-Time,DER764_Watts,DER764_VARs,DER764_loc
-1570041117,2992,0,tlx_632_b_h_14
-1570041124,2241,0,tlx_632_b_h_14
-1570041130,1809,0,tlx_632_b_h_14
+version https://git-lfs.github.com/spec/v1
+oid sha256:44c14dd653ca2f74c71a515ca28e32341ccf5f4db457aed85cf56383c6c4f55d
+size 140

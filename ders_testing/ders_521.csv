@@ -1,4 +1,3 @@
-Time,DER521_Watts,DER521_VARs,DER521_loc
-1570041117,1937,0,tlx_680_b_h_32
-1570041124,4304,0,tlx_680_b_h_32
-1570041130,3411,0,tlx_680_b_h_32
+version https://git-lfs.github.com/spec/v1
+oid sha256:650d86f4af488d8e71cf772492ce1ff205752a5433eddbed3e06da1628b72748
+size 140

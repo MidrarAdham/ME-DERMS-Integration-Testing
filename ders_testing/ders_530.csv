@@ -1,4 +1,3 @@
-Time,DER530_Watts,DER530_VARs,DER530_loc
-1570041117,564,0,tlx_680_a_h_21
-1570041124,4224,0,tlx_680_a_h_21
-1570041130,820,0,tlx_680_a_h_21
+version https://git-lfs.github.com/spec/v1
+oid sha256:2865f4bf2ddccc78ee71a69cada954b00816031b537cd5df62e8a9e9aa4f9f43
+size 138

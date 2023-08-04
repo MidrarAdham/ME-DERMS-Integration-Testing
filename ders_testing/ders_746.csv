@@ -1,4 +1,3 @@
-Time,DER746_Watts,DER746_VARs,DER746_loc
-1570041117,763,0,tlx_680_a_h_30
-1570041124,1714,0,tlx_680_a_h_30
-1570041130,3248,0,tlx_680_a_h_30
+version https://git-lfs.github.com/spec/v1
+oid sha256:afcd2e6aeb31603a32f306fc667c553b6c6807fc9c8d3a6d74a3215ad7151326
+size 139

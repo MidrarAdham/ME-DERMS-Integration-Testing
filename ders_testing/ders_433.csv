@@ -1,4 +1,3 @@
-Time,DER433_Watts,DER433_VARs,DER433_loc
-1570041117,3887,0,tlx_692_c_h_38
-1570041124,4325,0,tlx_692_c_h_38
-1570041130,2753,0,tlx_692_c_h_38
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ba5ceee9f10be1116ae5938fed8b3e6de698e2cdb307e985bc7785a54fc5d57
+size 140

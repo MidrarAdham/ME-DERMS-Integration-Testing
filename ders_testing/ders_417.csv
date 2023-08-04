@@ -1,4 +1,3 @@
-Time,DER417_Watts,DER417_VARs,DER417_loc
-1570041117,68,0,tlx_633_b_h_25
-1570041124,1361,0,tlx_633_b_h_25
-1570041130,1802,0,tlx_633_b_h_25
+version https://git-lfs.github.com/spec/v1
+oid sha256:232cfd5b194999eb33b32e5e8a57b6f976652e80db0f59455901b8532e84d4cd
+size 138

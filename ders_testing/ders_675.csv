@@ -1,4 +1,3 @@
-Time,DER675_Watts,DER675_VARs,DER675_loc
-1570041117,2355,0,tlx_633_b_h_30
-1570041124,2410,0,tlx_633_b_h_30
-1570041130,3446,0,tlx_633_b_h_30
+version https://git-lfs.github.com/spec/v1
+oid sha256:975b42f2891fd21c922f2af7469a12ad830e2d17f17ba540d3a472ca978d91cd
+size 140

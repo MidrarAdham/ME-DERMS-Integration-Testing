@@ -1,4 +1,3 @@
-Time,DER902_Watts,DER902_VARs,DER902_loc
-1570041117,455,0,tlx_632_a_h_24
-1570041124,2408,0,tlx_632_a_h_24
-1570041130,1049,0,tlx_632_a_h_24
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7445a6b489ce1fde7f96da454c7a3955b726e90d5c9b4e35afc6b540040bdb6
+size 139

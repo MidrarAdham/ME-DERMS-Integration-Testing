@@ -1,4 +1,3 @@
-Time,DER785_Watts,DER785_VARs,DER785_loc
-1570041117,3306,0,tlx_692_b_h_29
-1570041124,1599,0,tlx_692_b_h_29
-1570041130,4201,0,tlx_692_b_h_29
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2b87b975346d1c835211857c1c24418ea4e1c1d754b761bb608ca048a8ed944
+size 140

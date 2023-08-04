@@ -1,4 +1,3 @@
-Time,DER850_Watts,DER850_VARs,DER850_loc
-1570041117,3389,0,tlx_684_a_h_37
-1570041124,2991,0,tlx_684_a_h_37
-1570041130,1519,0,tlx_684_a_h_37
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ad949c7f5741effc7cd7cc0a274b4e9c41303702624074cea91f0572df4fe42
+size 140

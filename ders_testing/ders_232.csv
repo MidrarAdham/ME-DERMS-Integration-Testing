@@ -1,4 +1,3 @@
-Time,DER232_Watts,DER232_VARs,DER232_loc
-1570041117,1951,0,tlx_675_c_h_15
-1570041124,122,0,tlx_675_c_h_15
-1570041130,1474,0,tlx_675_c_h_15
+version https://git-lfs.github.com/spec/v1
+oid sha256:18ebe31e43ad18832c9adb33927477854e6964ce2ac386776ffb7fc58e76e53b
+size 139

@@ -1,4 +1,3 @@
-Time,DER80_Watts,DER80_VARs,DER80_loc
-1570041117,3865,0,tlx_645_c_h_11
-1570041124,2405,0,tlx_645_c_h_11
-1570041130,2018,0,tlx_645_c_h_11
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c718982235d7db7d97106b8b66fd580a0a4033adac133cf0f75c42509caf29a
+size 137

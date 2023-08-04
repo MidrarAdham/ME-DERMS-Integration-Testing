@@ -1,4 +1,3 @@
-Time,DER830_Watts,DER830_VARs,DER830_loc
-1570041117,1598,0,tlx_632_c_h_28
-1570041124,3884,0,tlx_632_c_h_28
-1570041130,3279,0,tlx_632_c_h_28
+version https://git-lfs.github.com/spec/v1
+oid sha256:05a9ef28bcb0f3ce40d90b2468a4014db6e8e5c6ed5c22f5409ef907ede97d37
+size 140

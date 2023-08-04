@@ -1,4 +1,3 @@
-Time,DER600_Watts,DER600_VARs,DER600_loc
-1570041117,1395,0,tlx_645_b_h_20
-1570041124,3948,0,tlx_645_b_h_20
-1570041130,581,0,tlx_645_b_h_20
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a182e0d8a55cb718d7eda9813054a57aaf451200de0019a25d7544dd9f5d5e6
+size 139

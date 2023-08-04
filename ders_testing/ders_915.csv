@@ -1,4 +1,3 @@
-Time,DER915_Watts,DER915_VARs,DER915_loc
-1570041117,1985,0,tlx_692_b_h_36
-1570041124,3471,0,tlx_692_b_h_36
-1570041130,1080,0,tlx_692_b_h_36
+version https://git-lfs.github.com/spec/v1
+oid sha256:2def0a448ef69f8830476d436b0c4f96a3198e327648d41a673f2d592e0ff884
+size 140
